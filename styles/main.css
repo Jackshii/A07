@@ -15,7 +15,9 @@ body {
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
+    overflow: auto; 
 }
+
 
 header {
     border-bottom: 3px solid #931420;
@@ -25,21 +27,22 @@ header {
 }
 
 header h2 {
-    font-size: 170%;
+    font-size: 170%; 
     color: #800000;
 }
 
 header h3 {
-    font-size: 130%;
+    font-size: 130%; 
     font-style: italic;
 }
 
 header img {
     float: left;
-    margin-right: 15px;
+    margin-right: 15px; 
     padding-left: 30px;
     padding-right: 30px;
 }
+
 
 .shadow {
     text-shadow: 2px 2px 4px #800000;
@@ -58,6 +61,7 @@ footer p {
     text-align: center;
     color: white;
     font-size: 90%; 
+    margin: 5px 0; 
 }
 
 
@@ -75,7 +79,7 @@ main h1 {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
-    padding: 10px;
+    padding: 10px; 
     background-color: #fffded;
     margin: 5px 0; 
 }
