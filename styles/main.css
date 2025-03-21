@@ -72,6 +72,8 @@ main h1 {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+    padding: 10px;
+    background-color: #fffded;
 }
 
 main h2 {
@@ -80,6 +82,8 @@ main h2 {
 
 main h3 {
     font-size: 120%;
+    font-weight: bold;
+    clear: both;
 }
 
 main ul {
